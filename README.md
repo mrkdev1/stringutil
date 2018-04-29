@@ -1,2 +1,2 @@
 # stringutil
-stringutil
+string utility exercise
